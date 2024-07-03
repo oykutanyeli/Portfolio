@@ -1,0 +1,48 @@
+h1 {
+  font-size: 70px;
+  font-weight: 600;
+  line-height: 85px;
+}
+h2 {
+  font-size: 40px;
+  font-weight: 600;
+}
+h3 {
+  font-size: 36px;
+  font-weight: 600;
+}
+h4 {
+  font-size: 30px;
+  font-weight: 600;
+}
+h5 {
+  font-size: 30px;
+  font-weight: 500;
+  line-height: normal;
+}
+h6 {
+  font-size: 24px;
+  font-weight: 500;
+}
+.h6-bold {
+  font-size: 20px;
+  font-weight: 700;
+}
+p {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: normal;
+}
+p.lg {
+  font-size: 24px;
+}
+p.sm {
+  font-size: 16px;
+}
+.p-bold {
+  font-size: 20px;
+  font-weight: 500px;
+}
+.text-align-center {
+  text-align: center;
+}

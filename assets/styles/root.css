@@ -1,0 +1,26 @@
+:root {
+  --white: #ffffff;
+  --black: #000000;
+  --viking: #6faedf;
+  --portica: #f6da6f;
+  --seagull: #77b7e9;
+  --saffron: #f2cd3f;
+  --kournikova: #ffe069;
+  --french-grey: #c4c5c8;
+  --dogger-blue: #1e9cfe;
+  --el-paso: #251a0a;
+  --moss-green: #a7d9b4;
+  --tree-poppy: #fb9a15;
+  --flush-orange: #ff7a00;
+  --clay-creek-line: #8f815e;
+  --silver-chalice: #9e9e9e;
+  --selago: #f0f7fd;
+  --eucalyptus: #268940;
+  --piton-blue: #4197e0;
+
+  --red-hat-text: "RedHatText", sans-serif;
+
+  --header-height: 112px;
+
+  --transition: all 0.4s ease-out;
+}

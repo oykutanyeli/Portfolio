@@ -1,0 +1,8 @@
+input {
+  background-color: transparent;
+  color: var(--black);
+  font-size: 16px;
+  padding: 14px 0;
+  border: none;
+  border-bottom: 1.5px solid var(--black);
+}
